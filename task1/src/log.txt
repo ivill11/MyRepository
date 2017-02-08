@@ -1,0 +1,7 @@
+ git log
+commit 586e2e6672ff12f6bb1bc3914a42c0f10f68e94f
+Author: Ilya.Ivankovich <ivill1104@gmail.com>
+Date:   Wed Feb 8 22:03:25 2017 +0300
+
+    add.gitignore
+
